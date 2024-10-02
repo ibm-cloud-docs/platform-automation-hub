@@ -33,9 +33,9 @@ toc:
       topics:
       - topic: topic3.md
         navtitle: Choosing the product that right's for you
-      - topic: topic4.md
-        navtitle: Your responsibilties
       - topic: responsibilities.md
+        navtitle: Your responsibilties
+      - topic: topic4.md
         navtitle: Prerequisites
   - navgroup:
       id: howto
