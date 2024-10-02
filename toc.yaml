@@ -1,0 +1,106 @@
+#  Name your file `toc.yaml`
+#  Make sure you include all nav file coding requirements, as defined in https://test.cloud.ibm.com/docs-internal/writing?topic=writing-code-nav
+#  Anything with a fully qualified URL with `http` or `https` will get an external link icon added to the nav entry
+---
+toc:
+  properties:
+    subcollection: platform-automation-hub
+    href: /docs/platform-automation-hub
+    path: platform-automation-hub
+    audience: solution
+    category: solution_docs
+    content-type: solution
+    industry: Technology
+    use-case: Automation
+    description: Placeholder description for automation in IBM Cloud.
+    label: Platform automation
+  entries:
+  - navgroup:
+      id: overview
+      topics:
+      - topic: topic.md
+        navtitle: What is automation on IBM Cloud?
+      - topic: topic2.md
+        navtitle: Best practices
+  - navgroup:
+      id: architecture
+      topics:
+      - link:
+          label: DevSecOps Application Lifecycle Management
+          href: /devsecops-alm/devsecops-alm-deploy-arch-ibm-devsecops-alm
+  - navgroup:
+      id: plan
+      topics:
+      - topic: topic3.md
+        navtitle: Choosing the product that right's for you
+      - topic: topic4.md
+        navtitle: Your responsibilties
+      - topic: responsibilities.md
+        navtitle: Prerequisites
+  - navgroup:
+      id: howto
+      topics:
+      - how-to.md
+  - navgroup:
+      id: howto
+      topics:
+      - topicgroup:
+          label: Managing infrastructure by using IaC tools
+          topics:
+          - tf.md
+          - ansible.md
+      - topicgroup:
+          label: Automating code integration
+          topics:
+          - cipipeline.md
+          - cdpipeline.md
+      - topicgroup:
+          label: Automating testing
+          topics:
+          - integrate-fw.md
+          - topicgroup:
+              label: Integrating end-to-end testing tools
+              topics:
+              - cipipelinetest.md
+              - cdpipelinetest.md
+      - topicgroup:
+          label: Automating deployments
+          topics:
+          - cipipelinedeploy.md
+          - cdpipelinedeploy.md
+      - topicgroup:
+          label: Using monitoring tools
+          topics:
+          - cfgdrift.md
+      - topicgroup:
+          label: Managing configurations
+          topics:
+          - featureflags.md
+  - navgroup:
+      id: reference
+      topics:
+      - topicgroup:
+          label: Related product guides
+          links:
+          - link:
+              label: Continuous Delivery
+              href: https://cloud.ibm.com/docs/ContinuousDelivery
+          - link:
+              label: DevSecOps
+              href: https://cloud.ibm.com/docs/devsecops
+          - link:
+              label: Event Notifications
+              href: https://cloud.ibm.com/docs/event-notifications?topic=event-notifications-getting-started
+          - link:
+              label: Schematics
+              href: https://cloud.ibm.com/docs/schematics
+          - link:
+              label: Running secure enterprise workloads
+              href: https://cloud.ibm.com/docs/secure-enterprise
+  - navgroup:
+      id: help
+      topics:
+      - topic: topicts.md
+        navtitle: FAQs for automation
+      - topic: topicts1.md
+        navtitle: Troubleshooting automation
