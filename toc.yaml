@@ -12,7 +12,7 @@ toc:
     content-type: solution
     industry: Technology
     use-case: Automation
-    description: Placeholder description for automation in IBM Cloud.
+    description: Simplify the management of complex enterprise apps by streamlining common platform automation tasks.
     label: Platform automation
   entries:
   - navgroup:
@@ -103,7 +103,8 @@ toc:
   - navgroup:
       id: help
       topics:
-      - topic: topicts.md
-        navtitle: FAQs for automation
-      - topic: topicts1.md
-        navtitle: Troubleshooting automation
+      - topicgroup:
+          label: Troubleshooting
+          topics:
+          - include: ../secure-enterprise/ts-deploy.md
+          - include: ../secure-enterprise/ts-needs-attention.md

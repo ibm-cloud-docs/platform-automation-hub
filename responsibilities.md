@@ -12,10 +12,10 @@ subcollection: platform-automation-hub
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Your responsibilities when using the DevSecOps deployable architecture
+# Your responsibilities when using the DevSecOps Application Lifecycle Management deployable architecture
 {: #responsibilities-automation}
 
-Learn about the management responsibilities and terms and conditions that you have when you use the DevSecOps deployable architecture. 
+Learn about the management responsibilities and terms and conditions that you have when you use the DevSecOps Application Lifecycle Management deployable architecture. 
 {: shortdesc}
 
 - For more information about the responsibilities for you and for {{site.data.keyword.IBM}} when you use a deployable architecture, see [Understanding your responsibilities when you use deployable architectures](/docs/secure-enterprise?topic=secure-enterprise-responsibilities-deployable-architectures).
@@ -27,14 +27,14 @@ Learn about the management responsibilities and terms and conditions that you ha
 
 Incident and operations management includes tasks such as monitoring, event management, high availability, problem determination, recovery, and full state backup and recovery.
 
-The DevSecOps deployable architecture does not identify specific responsibilities in this area. For more information about the general incident and operations management responsibilities when you use deployable architectures, see [Incident and operations management](/docs/secure-enterprise?topic=secure-enterprise-responsibilities-deployable-architectures#incident-and-ops-da).
+The DevSecOps Application Lifecycle Management deployable architecture does not identify specific responsibilities in this area. For more information about the general incident and operations management responsibilities when you use deployable architectures, see [Incident and operations management](/docs/secure-enterprise?topic=secure-enterprise-responsibilities-deployable-architectures#incident-and-ops-da).
 
 ## Change management
 {: #change-management}
 
 Change management includes tasks such as deployment, configuration, upgrades, patching, configuration changes, and deletion.
 
-The DevSecOps deployable architecture does not identify specific responsibilities in this area. For more information about the general change management responsibilities when you use deployable architectures, see [Change management](/docs/secure-enterprise?topic=secure-enterprise-responsibilities-deployable-architectures#change-management-da).
+The DevSecOps Application Lifecycle Management deployable architecture does not identify specific responsibilities in this area. For more information about the general change management responsibilities when you use deployable architectures, see [Change management](/docs/secure-enterprise?topic=secure-enterprise-responsibilities-deployable-architectures#change-management-da).
 
 ## Identity and access management
 {: #iam-responsibilities}
@@ -64,7 +64,7 @@ Security and regulation compliance includes tasks such as security controls impl
 {: caption="Responsibilities for security and regulation compliance" caption-side="bottom"}
 {: summary="The rows are read from left to right. The first column describes the task that the customer or IBM might be responsibility for. The second column describes {{site.data.keyword.IBM_notm}} responsibilities for that task. The third column describes your responsibilities as the customer for that task."}
 
-For more information about the general Security and regulation compliance responsibilities when you use deployable architectures, see [Security and regulation compliance](/docs/secure-enterprise?topic=secure-enterprise-responsibilities-deployable-architectures#security-compliance-da).
+For more information about the general security and regulation compliance responsibilities when you use deployable architectures, see [Security and regulation compliance](/docs/secure-enterprise?topic=secure-enterprise-responsibilities-deployable-architectures#security-compliance-da).
 
 ## Disaster recovery
 {: #disaster-recovery}
@@ -79,3 +79,5 @@ Disaster recovery includes tasks such as providing dependencies on disaster reco
 {: row-headers}
 {: caption="Responsibilities for disaster recovery" caption-side="top"}
 {: summary="The rows are read from left to right. The first column describes the task that the customer or IBM might be responsibility for. The second column describes {{site.data.keyword.IBM_notm}} responsibilities for that task. The third column describes your responsibilities as the customer for that task."}
+
+For more information about the general disaster recovery responsibilities when you use deployable architectures, see [Disaster recovery](/docs/secure-enterprise?topic=secure-enterprise-responsibilities-deployable-architectures#disaster-recovery-da).
