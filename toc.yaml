@@ -83,6 +83,9 @@ toc:
           label: Related product guides
           links:
           - link:
+              label: App Configuration
+              href: https://cloud.ibm.com/docs/app-configuration
+          - link:
               label: Continuous Delivery
               href: https://cloud.ibm.com/docs/ContinuousDelivery
           - link:
@@ -90,13 +93,13 @@ toc:
               href: https://cloud.ibm.com/docs/devsecops
           - link:
               label: Event Notifications
-              href: https://cloud.ibm.com/docs/event-notifications?topic=event-notifications-getting-started
-          - link:
-              label: Schematics
-              href: https://cloud.ibm.com/docs/schematics
+              href: https://cloud.ibm.com/docs/event-notifications
           - link:
               label: Running secure enterprise workloads
               href: https://cloud.ibm.com/docs/secure-enterprise
+          - link:
+              label: Schematics
+              href: https://cloud.ibm.com/docs/schematics
   - navgroup:
       id: help
       topics:
