@@ -29,24 +29,25 @@ subcollection: platform-automation-hub
 | Cell | Cell | 
 {: row-headers}
 {: caption="Event Notifications benefits and features" caption-side="bottom"}
-{: summary="The first column states a feature of the product. The second column provides a description of the feature."}
 
 ## {{site.data.keyword.appconfig_short}}
 {: #compare-appcfg}
 
 | Feature | Description | 
 |----------|---------|
-| Cell | Cell | 
-| Cell | Cell | 
-| Cell | Cell | 
+| Centralized configuration | Configure multiple, distributed resources from a central location. Use collections to organize your flags by app or resource. | 
+| Dark launch | Include restricted-availability features in your deployments, and activate them when you're ready. | 
+| Segmented feature rollout | Activate features for different segments at different times or vary features by segment. | 
+| Feature rollback | Instantly revert problematic features. | 
+| Phased feature rollout | Progressively release features through the use of feature flags. | 
+| Configuration aggregator | Collect metadata of multiple, distributed resources in {{site.data.keyword.cloud_notm}} accounts for governance and compliance initiatives. | 
 {: row-headers}
 {: caption="App Configuration benefits and features" caption-side="bottom"}
-{: summary="The first column states a feature of the product. The second column provides a description of the feature."}
 
 ## {{site.data.keyword.bplong_notm}}
 {: #compare-schematics}
 
-{{site.data.keyword.bpshort}} provides a powerful set of Infrastructure as Code (IaC) tools, Terraform, Ansible, and Helm, to program your cloud infrastructure. You can run end-to-end automation to build multiple stacks of cloud resources, manage the lifecycle, manage the configuration changes, deploy your app workloads, and perform Day 2 operations. 
+{{site.data.keyword.bpshort}} provides a powerful set of Infrastructure as Code (IaC) tools, Terraform, Ansible, and Helm, to program your cloud infrastructure. You can run end-to-end automation to build multiple stacks of cloud resources, manage the lifecycle and configuration changes, deploy your app workloads, and perform Day 2 operations. 
 
 {{../schematics/sc-about-overview.md#benefits-table}}
 
@@ -60,4 +61,3 @@ subcollection: platform-automation-hub
 | Cell | Cell | 
 {: row-headers}
 {: caption="Continuous Delivery benefits and features" caption-side="bottom"}
-{: summary="The first column states a feature of the product. The second column provides a description of the feature."}
