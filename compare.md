@@ -48,6 +48,8 @@ subcollection: platform-automation-hub
 
 {{site.data.keyword.bpshort}} provides a powerful set of Infrastructure as Code (IaC) tools, Terraform, Ansible, and Helm, to program your cloud infrastructure. You can run end-to-end automation to build multiple stacks of cloud resources, manage the lifecycle, manage the configuration changes, deploy your app workloads, and perform Day 2 operations. 
 
+{{../schematics/sc-about-overview.md#benefits-table}}
+
 ## Toolchains: {{site.data.keyword.contdelivery_short}}
 {: #compare-cd}
 
