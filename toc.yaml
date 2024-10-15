@@ -12,35 +12,13 @@ toc:
     content-type: solution
     industry: Technology
     use-case: Automation
-    description: Simplify the management of complex enterprise apps by streamlining common platform automation tasks.
+    description: Simplify the management of complex enterprise apps by streamlining common cloud automation tasks.
     label: Platform automation
   entries:
   - navgroup:
-      id: overview
-      topics:
-      - topic: topic.md
-        navtitle: What is automation on IBM Cloud?
-      - topic: topic2.md
-        navtitle: Best practices
-  - navgroup:
-      id: architecture
-      topics:
-      - link:
-          label: DevSecOps Application Lifecycle Management
-          href: /devsecops-alm/devsecops-alm-deploy-arch-ibm-devsecops-alm
-  - navgroup:
       id: plan
       topics:
-      - topic: topic3.md
-        navtitle: Choosing the product that right's for you
-      - topic: responsibilities.md
-        navtitle: Your responsibilties
-      - topic: topic4.md
-        navtitle: Prerequisites
-  - navgroup:
-      id: howto
-      topics:
-      - how-to.md
+      - topic: compare.md
   - navgroup:
       id: howto
       topics:
@@ -100,11 +78,3 @@ toc:
           - link:
               label: Schematics
               href: https://cloud.ibm.com/docs/schematics
-  - navgroup:
-      id: help
-      topics:
-      - topicgroup:
-          label: Troubleshooting
-          topics:
-          - include: ../secure-enterprise/ts-deploy.md
-          - include: ../secure-enterprise/ts-needs-attention.md

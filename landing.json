@@ -1,44 +1,40 @@
 {
   "version": 2,
   "title": "Platform automation",
-  "introduction": "This is a description of what the user will be able to find in the content for your solution.",
+  "introduction": "Simplify the management of complex enterprise apps by streamlining common cloud automation tasks.",
   "product_page": "https://ibm.com/automation",
   "section_topics": {
     "links": [
       {
-        "title": "What is automation on IBM Cloud?",
-        "href": "/docs/overview?topic=overview-get-started-checklist"
-      },
-      {
-        "title": "Choosing the product that's right for you",
-        "href": "/docs/overview?topic=overview-get-started-checklist"
-      },
-      {
-        "title": "Your responsibilities",
-        "href": "/docs/platform-automation-hub?topic=platform-automation-hub-responsibilities-automation"
+        "title": "Comparing IBM Cloud Platform Automation products",
+        "href": "/docs/platform-automation-hub?topic=platform-automation-hub-compare"
       }
     ]
   },
   "section_highlights": [
     {
-      "title": "Resource title",
-      "description": "Short description of resource content.",
-      "href": "https://www.example.ibm.com/link/to/resource",
-      "type": "blog"
+      "title": "IBM Cloud Event Notifications",
+      "description": "Streamline incident management with the communication tools that you already use.",
+      "href": "/docs/event-notifications",
+      "type": "training"
     },
     {
-      "title": "Db2 Optimization Techniques for SAP Database Migration to the Cloud",
-      "description": "This IBM Redbook provides in-depth recommendations for the source system database export.",
-      "href": "https://www.redbooks.ibm.com/abstracts/sg248531.html",
-      "type": "redbook",
-      "recommended": true
-    }
-  ],
-  "section_architectures": [
+      "title": "IBM Cloud App Configuration",
+      "description": "A centralized feature management and configuration service for use with web and mobile applications, microservices, and distributed environments.",
+      "href": "/docs/app-configuration",
+      "type": "training"
+    },
     {
-      "title": "DevSecOps Application Lifecycle Management",
-      "href": "/docs/devsecops-alm?topic=devsecops-alm-devsecops-alm-overview",
-      "deployable": true
+      "title": "IBM Cloud Schematics",
+      "description": "Build your IBM Cloud environment, automate cloud resource operations, install software, and run multitiered apps on your cloud resources.",
+      "href": "/docs/schematics",
+      "type": "training"
+    },
+    {
+      "title": "IBM Cloud Continuous Delivery",
+      "description": "Adopt a DevOps or DevSecOps approach by using Continuous Delivery, which includes open toolchains that automate the building and deploying of applications.",
+      "href": "/docs/ContinuousDelivery",
+      "type": "training"
     }
   ]
 }
