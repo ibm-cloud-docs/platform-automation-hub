@@ -16,7 +16,7 @@ subcollection: platform-automation-hub
 # Comparing Platform Automation products
 {: #compare}
 
-{{site.data.keyword.cloud}} offers several products for cloud development automation.
+{{site.data.keyword.cloud}} offers several products for platform automation.
 {: shortdesc}
 
 ## {{site.data.keyword.en_full_notm}}

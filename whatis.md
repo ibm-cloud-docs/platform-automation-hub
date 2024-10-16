@@ -30,6 +30,6 @@ Platform automation on {{site.data.keyword.cloud_notm}} includes the following p
 * {{site.data.keyword.en_full_notm}}
 * {{site.data.keyword.appconfig_notm}}
 * {{site.data.keyword.bplong_notm}}
-* {{site.data.keyword.contdelivery_notm}}
+* {{site.data.keyword.cloud_notm}} {{site.data.keyword.contdelivery_short}}
 
 For more details, see [Comparing Platform Automation products](/docs/platform-automation-hub?topic=platform-automation-hub-compare).
