@@ -6,7 +6,11 @@
   "section_topics": {
     "links": [
       {
-        "title": "Comparing IBM Cloud Platform Automation products",
+        "title": "What is platform automation in IBM Cloud?",
+        "href": "/docs/platform-automation-hub?topic=platform-automation-hub-whatis"
+      },
+      {
+        "title": "Comparing Platform Automation products",
         "href": "/docs/platform-automation-hub?topic=platform-automation-hub-compare"
       }
     ]
