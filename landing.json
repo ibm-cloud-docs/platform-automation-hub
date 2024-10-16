@@ -3,7 +3,7 @@
   "title": "Platform Automation",
   "introduction": "Simplify the management of complex enterprise apps by streamlining common cloud development automation tasks.",
   "product_page": "https://ibm.com/automation",
-  "deployment_url": "https.//cloud.ibm.com/automation/overview",
+  "deployment_url": "/automation/overview",
   "section_topics": {
     "links": [
       {
