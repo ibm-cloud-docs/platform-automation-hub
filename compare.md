@@ -58,7 +58,7 @@ subcollection: platform-automation-hub
 
 {{../schematics/sc-about-overview.md#benefits-table}}
 
-## {{site.data.keyword.cloud_notm}} {{site.data.keyword.contdelivery_short}}
+## {{site.data.keyword.contdelivery_notm}}
 {: #compare-cd}
 
 Build, test, and deliver applications by using DevOps or DevSecOps practices and industry-leading tools.
