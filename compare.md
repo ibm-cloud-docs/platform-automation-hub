@@ -22,7 +22,7 @@ subcollection: platform-automation-hub
 ## {{site.data.keyword.en_full_notm}}
 {: #compare-en}
 
-{{site.data.keyword.en_short}} is a routing service that provides you information about critical events that occur in your {{site.data.keyword.cloud_notm}} account or triggers automated actions by using webhooks.
+{{site.data.content.en-desc}}
 
 | Feature | Description | 
 |----------|---------|
@@ -38,7 +38,7 @@ subcollection: platform-automation-hub
 ## {{site.data.keyword.appconfig_notm}}
 {: #compare-appcfg}
 
-{{site.data.keyword.appconfig_short}} is a centralized feature management and configuration service for use with web and mobile applications, microservices, and distributed environments. Instrument your applications with {{site.data.keyword.appconfig_short}} SDKs, and use the {{site.data.keyword.appconfig_short}} dashboard or {{site.data.keyword.appconfig_short}} administrator API to define features flags, which are organized into collections and targeted to segments.
+{{site.data.content.appcfg-desc}}
 
 | Feature | Description | 
 |----------|---------|
@@ -54,14 +54,14 @@ subcollection: platform-automation-hub
 ## {{site.data.keyword.bplong_notm}}
 {: #compare-schematics}
 
-{{site.data.keyword.bpshort}} provides a powerful set of Infrastructure as Code (IaC) tools - Terraform, Ansible, and Helm - to program your cloud infrastructure. You can run end-to-end automation to build multiple stacks of cloud resources, manage the lifecycle and configuration changes, deploy your app workloads, and perform Day 2 operations. 
+{{site.data.content.bp-desc}} 
 
 {{../schematics/sc-about-overview.md#benefits-table}}
 
 ## {{site.data.keyword.cloud_notm}} {{site.data.keyword.contdelivery_short}}
 {: #compare-cd}
 
-Build, test, and deliver applications by using DevOps or DevSecOps practices and industry-leading tools.
+{{site.data.content.cd-desc}}
 
 | Feature | Description | 
 |----------|---------|
