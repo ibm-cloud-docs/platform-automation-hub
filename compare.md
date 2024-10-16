@@ -22,8 +22,6 @@ subcollection: platform-automation-hub
 ## {{site.data.keyword.en_full_notm}}
 {: #compare-en}
 
-{{site.data.content.en-desc}}
-
 | Feature | Description | 
 |----------|---------|
 | Centralized alert routing | From a single dashboard, route event notifications from {{site.data.keyword.compliance_long}} (SCC), {{site.data.keyword.secrets-manager_full_notm}}, or {{site.data.keyword.monitoringfull_notm}} to relevant stakeholders. | 
@@ -37,8 +35,6 @@ subcollection: platform-automation-hub
 
 ## {{site.data.keyword.appconfig_notm}}
 {: #compare-appcfg}
-
-{{site.data.content.appcfg-desc}}
 
 | Feature | Description | 
 |----------|---------|
@@ -54,14 +50,10 @@ subcollection: platform-automation-hub
 ## {{site.data.keyword.bplong_notm}}
 {: #compare-schematics}
 
-{{site.data.content.bp-desc}} 
-
 {{../schematics/sc-about-overview.md#benefits-table}}
 
 ## {{site.data.keyword.cloud_notm}} {{site.data.keyword.contdelivery_short}}
 {: #compare-cd}
-
-{{site.data.content.cd-desc}}
 
 | Feature | Description | 
 |----------|---------|

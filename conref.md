@@ -24,6 +24,23 @@ A short description that someone wanted to reuse across many topics.
 
 H1's would never be able to be reused. Each Markdown file can only ever have one H1. However, any H2-H6 can be fully reused.
 
+## What products are included?
+{: #included-products}
+
+{{site.data.keyword.en_notm}}
+:   A routing service that provides you information about critical events that occur in your {{site.data.keyword.cloud_notm}} account or triggers automated actions by using webhooks.
+
+{{site.data.keyword.appconfig_notm}}
+:  A centralized feature management and configuration service for use with web and mobile applications, microservices, and distributed environments. Instrument your applications with {{site.data.keyword.appconfig_short}} SDKs, and use the {{site.data.keyword.appconfig_short}} dashboard or {{site.data.keyword.appconfig_short}} administrator API to define features flags, which are organized into collections and targeted to segments.
+
+{{site.data.keyword.bp_notm}}
+:   Provides a powerful set of Infrastructure as Code (IaC) tools - Terraform, Ansible, and Helm - to program your cloud infrastructure. You can run end-to-end automation to build multiple stacks of cloud resources, manage the lifecycle and configuration changes, deploy your app workloads, and perform Day 2 operations.
+
+{{site.data.keyword.cloud_notm}} {{site.data.keyword.contdelivery_short}}
+:   Build, test, and deliver applications by using DevOps or DevSecOps practices and industry-leading tools.
+
+For more details about what each product offers, see [Comparing Platform Automation products](/docs/platform-automation-hub?topic=platform-automation-hub-compare).
+
 ## Full reused H2
 {: #full-reused-h2}
 
