@@ -25,7 +25,7 @@ Learn what platform automation is and how you can use it in your app development
 ## What products are available to me?
 {: #products}
 
-Platform automation on {{site.data.keyword.cloud_notm}} includes the following products: 
+Platform automation on {{site.data.keyword.cloud_notm}} includes the following products. For more details about what each product offers, see [Comparing Platform Automation products](/docs/platform-automation-hub?topic=platform-automation-hub-compare).
 
 **{{site.data.keyword.en_full_notm}}**
 
@@ -42,5 +42,3 @@ Platform automation on {{site.data.keyword.cloud_notm}} includes the following p
 **{{site.data.keyword.cloud_notm}} {{site.data.keyword.contdelivery_short}}**
 
 {{site.data.content.cd-desc}}
-
-For more details about what each product offers, see [Comparing Platform Automation products](/docs/platform-automation-hub?topic=platform-automation-hub-compare).
