@@ -13,47 +13,12 @@ toc:
     industry: Technology
     use-case: Automation
     description: Simplify the management of complex enterprise apps by streamlining common cloud automation tasks.
-    label: Platform automation
+    label: Platform Automation
   entries:
   - navgroup:
       id: plan
       topics:
       - topic: compare.md
-  - navgroup:
-      id: howto
-      topics:
-      - topicgroup:
-          label: Managing infrastructure by using IaC tools
-          topics:
-          - tf.md
-          - ansible.md
-      - topicgroup:
-          label: Automating code integration
-          topics:
-          - cipipeline.md
-          - cdpipeline.md
-      - topicgroup:
-          label: Automating testing
-          topics:
-          - integrate-fw.md
-          - topicgroup:
-              label: Integrating end-to-end testing tools
-              topics:
-              - cipipelinetest.md
-              - cdpipelinetest.md
-      - topicgroup:
-          label: Automating deployments
-          topics:
-          - cipipelinedeploy.md
-          - cdpipelinedeploy.md
-      - topicgroup:
-          label: Using monitoring tools
-          topics:
-          - cfgdrift.md
-      - topicgroup:
-          label: Managing configurations
-          topics:
-          - featureflags.md
   - navgroup:
       id: reference
       topics:
