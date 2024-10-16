@@ -13,10 +13,10 @@ subcollection: platform-automation-hub
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Comparing {{site.data.keyword.cloud_notm}} Platform Automation products
+# Comparing Platform Automation products
 {: #compare}
 
-{{site.data.keyword.cloud}} offers several products for cloud automation.
+{{site.data.keyword.cloud}} offers several products for cloud development automation.
 {: shortdesc}
 
 ## {{site.data.keyword.en_full_notm}}
