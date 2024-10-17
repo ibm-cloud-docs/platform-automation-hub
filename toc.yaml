@@ -1,0 +1,45 @@
+#  Name your file `toc.yaml`
+#  Make sure you include all nav file coding requirements, as defined in https://test.cloud.ibm.com/docs-internal/writing?topic=writing-code-nav
+#  Anything with a fully qualified URL with `http` or `https` will get an external link icon added to the nav entry
+---
+toc:
+  properties:
+    subcollection: platform-automation-hub
+    href: /docs/platform-automation-hub
+    path: platform-automation-hub
+    audience: solution
+    category: solution_docs
+    content-type: solution
+    industry: Technology
+    use-case: Automation
+    description: Simplify the management of complex enterprise apps by streamlining your cloud development tasks with platform automation.
+    label: Platform Automation
+  entries:
+  - navgroup:
+      id: plan
+      topics:
+      - topic: compare.md
+  - navgroup:
+      id: reference
+      topics:
+      - topicgroup:
+          label: Related product guides
+          links:
+          - link:
+              label: App Configuration
+              href: https://cloud.ibm.com/docs/app-configuration
+          - link:
+              label: Continuous Delivery
+              href: https://cloud.ibm.com/docs/ContinuousDelivery
+          - link:
+              label: DevSecOps
+              href: https://cloud.ibm.com/docs/devsecops
+          - link:
+              label: Event Notifications
+              href: https://cloud.ibm.com/docs/event-notifications
+          - link:
+              label: Running secure enterprise workloads
+              href: https://cloud.ibm.com/docs/secure-enterprise
+          - link:
+              label: Schematics
+              href: https://cloud.ibm.com/docs/schematics
