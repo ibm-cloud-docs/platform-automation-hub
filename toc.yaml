@@ -12,13 +12,9 @@ toc:
     content-type: solution
     industry: Technology
     use-case: Automation
-    description: Simplify the management of complex enterprise apps by streamlining common cloud development automation tasks.
+    description: Simplify the management of complex enterprise apps by streamlining your cloud development tasks with platform automation.
     label: Platform Automation
   entries:
-  - navgroup:
-      id: overview
-      topics:
-      - topic: whatis.md
   - navgroup:
       id: plan
       topics:

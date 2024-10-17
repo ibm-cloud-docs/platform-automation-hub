@@ -2,7 +2,7 @@
 
 copyright:
   years: 2024, 2024
-lastupdated: "2024-10-16"
+lastupdated: "2024-10-17"
 
 
 keywords: platform automation
@@ -22,6 +22,8 @@ subcollection: platform-automation-hub
 ## {{site.data.keyword.en_full_notm}}
 {: #compare-en}
 
+{{site.data.keyword.en_short}} is a routing service that provides information about critical events that occur in your {{site.data.keyword.cloud_notm}} account or triggers automated actions by using webhooks.
+
 | Feature | Description | 
 |----------|---------|
 | Centralized alert routing | From a single dashboard, route event notifications from {{site.data.keyword.compliance_long}} (SCC), {{site.data.keyword.secrets-manager_full_notm}}, or {{site.data.keyword.monitoringfull_notm}} to relevant stakeholders. | 
@@ -35,6 +37,8 @@ subcollection: platform-automation-hub
 
 ## {{site.data.keyword.appconfig_notm}}
 {: #compare-appcfg}
+
+{{site.data.keyword.appconfig_short}} is a centralized feature management and configuration service for use with web and mobile applications, microservices, and distributed environments. Instrument your applications with {{site.data.keyword.appconfig_short}} SDKs, and use the {{site.data.keyword.appconfig_short}} dashboard or {{site.data.keyword.appconfig_short}} administrator API to define features flags, which are organized into collections and targeted to segments.
 
 | Feature | Description | 
 |----------|---------|
@@ -50,10 +54,14 @@ subcollection: platform-automation-hub
 ## {{site.data.keyword.bplong_notm}}
 {: #compare-schematics}
 
+{{site.data.keyword.bplong_short}} provides a powerful set of Infrastructure as Code (IaC) tools - Terraform, Ansible, and Helm - to program your cloud infrastructure. You can run end-to-end automation to build multiple stacks of cloud resources, manage the lifecycle and configuration changes, deploy your app workloads, and perform Day 2 operations.
+
 {{../schematics/sc-about-overview.md#benefits-table}}
 
 ## {{site.data.keyword.cloud_notm}} {{site.data.keyword.contdelivery_short}}
 {: #compare-cd}
+
+{{site.data.keyword.contdelivery_short}} provides DevOps or DevSecOps practices and industry-leading tools for building, testing, and delivering applications.
 
 | Feature | Description | 
 |----------|---------|

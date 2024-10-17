@@ -1,15 +1,12 @@
+
 {
   "version": 2,
   "title": "Platform Automation",
-  "introduction": "Simplify the management of complex enterprise apps by streamlining common cloud development automation tasks.",
+  "introduction": "Simplify the management of complex enterprise apps by streamlining your cloud development tasks with platform automation.",
   "product_page": "https://ibm.com/automation",
   "deployment_url": "/automation/overview",
   "section_topics": {
     "links": [
-      {
-        "title": "What is platform automation in IBM Cloud?",
-        "href": "/docs/platform-automation-hub?topic=platform-automation-hub-whatis"
-      },
       {
         "title": "Comparing Platform Automation products",
         "href": "/docs/platform-automation-hub?topic=platform-automation-hub-compare"
