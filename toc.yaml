@@ -38,9 +38,6 @@ toc:
               label: Event Notifications
               href: https://cloud.ibm.com/docs/event-notifications
           - link:
-              label: Running secure enterprise workloads
-              href: https://cloud.ibm.com/docs/secure-enterprise
-          - link:
               label: Schematics
               href: https://cloud.ibm.com/docs/schematics
       - topicgroup:
