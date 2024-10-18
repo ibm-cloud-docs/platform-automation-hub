@@ -3,7 +3,6 @@
   "version": 2,
   "title": "Platform Automation",
   "introduction": "Simplify the management of complex enterprise apps by streamlining your cloud development tasks with platform automation.",
-  "product_page": "https://ibm.com/automation",
   "deployment_url": "/automation/overview",
   "section_topics": {
     "links": [
