@@ -9,33 +9,23 @@
       {
         "title": "Comparing Platform Automation products",
         "href": "/docs/platform-automation-hub?topic=platform-automation-hub-compare"
+      },
+      {
+        "title": "IBM Cloud Event Notifications",
+        "href": "/docs/event-notifications"
+      },
+      {
+        "title": "IBM Cloud App Configuration",
+        "href": "/docs/app-configuration"
+      },
+      {
+        "title": "IBM Cloud Schematics",
+        "href": "/docs/schematics"
+      },
+      {
+        "title": "IBM Cloud Continuous Delivery",
+        "href": "/docs/ContinuousDelivery"
       }
     ]
-  },
-  "section_highlights": [
-    {
-      "title": "IBM Cloud Event Notifications",
-      "description": "Streamline incident management with the communication tools that you already use.",
-      "href": "/docs/event-notifications",
-      "type": "training"
-    },
-    {
-      "title": "IBM Cloud App Configuration",
-      "description": "A centralized feature management and configuration service for use with web and mobile applications, microservices, and distributed environments.",
-      "href": "/docs/app-configuration",
-      "type": "training"
-    },
-    {
-      "title": "IBM Cloud Schematics",
-      "description": "Build your IBM Cloud environment, automate cloud resource operations, install software, and run multitiered apps on your cloud resources.",
-      "href": "/docs/schematics",
-      "type": "training"
-    },
-    {
-      "title": "IBM Cloud Continuous Delivery",
-      "description": "Adopt a DevOps or DevSecOps approach by using Continuous Delivery, which includes open toolchains that automate the building and deploying of applications.",
-      "href": "/docs/ContinuousDelivery",
-      "type": "training"
-    }
-  ]
+  }
 }
