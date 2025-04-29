@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2024, 2024
-lastupdated: "2024-10-29"
+  years: 2024, 2025
+lastupdated: "2025-04-29"
 
 
 keywords: platform automation
@@ -26,12 +26,12 @@ subcollection: platform-automation-hub
 
 | Feature | Description |
 |----------|---------|
-| Centralized alert routing | From a single dashboard, route event notifications from {{site.data.keyword.compliance_long}} (SCC), {{site.data.keyword.secrets-manager_full_notm}}, or {{site.data.keyword.monitoringfull_notm}} to relevant stakeholders. |
+| Centralized alert routing | From a single dashboard, route event notifications from {{site.data.keyword.compliance_long}}, {{site.data.keyword.secrets-manager_full_notm}}, or {{site.data.keyword.monitoringfull_notm}} to relevant stakeholders. |
 | Filtered source events | Filter incoming events into one or more topics. Use filters to fine-tune topic content to adjust the event set you need. Connect multiple topics to one source, or connect multiple sources to a single topic. |
 | Built-in communication providers | Add the included basic email and SMS capabilities as destinations to any {{site.data.keyword.en_short}} subscription for instant connectivity. |
 | Webhooks | Use webhooks to integrate outbound notifications into management and collaboration tools or into your own applications. |
 | Multi-destination routing | Route a single event notification to many destinations with just a few clicks - a person, your application, or your automation suite all at the same time. |
-| Governance | Track user and notification activity can be tracked through {{site.data.keyword.cloudaccesstraillong_notm}} and {{site.data.keyword.loganalysislong_notm}} so you can closely monitor what happened and when. |
+| Governance | Track user and notification activity can be tracked through {{site.data.keyword.logs_full_notm}} so you can closely monitor what happened and when. |
 {: row-headers}
 {: caption="Event Notifications benefits" caption-side="bottom"}
 
