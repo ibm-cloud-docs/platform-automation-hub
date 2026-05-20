@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2024, 2025
-lastupdated: "2025-04-29"
+  years: 2024, 2026
+lastupdated: "2026-05-20"
 
 
 keywords: platform automation
@@ -66,7 +66,7 @@ subcollection: platform-automation-hub
 | Feature | Description |
 |----------|---------|
 | Integrated DevOps toolchains | Simplify how you build, deploy, and manage your apps. |
-| Toolchain templates | Use customizable templates to quickly create toolchains for DevSecOps, Kubernetes deployments, and more.
+| Toolchain templates | Use customizable templates to quickly create toolchains for DevSecOps, Kubernetes deployments, and more. |
 | Automated delivery pipelines | Use Tekton-based delivery pipelines to repeatably build, test, and deploy with minimal human intervention. |
 | Git repos and issue tracking | Manage source code with Git repositories hosted by {{site.data.keyword.IBM_notm}}. |
 {: row-headers}
